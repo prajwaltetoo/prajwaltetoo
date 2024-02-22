@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/prajwaltetoo/prajwaltetoo/output/snake.svg" alt="Snake animation" />
-
-###
