@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1FBsJeNRztI4cqNcCQufLMplzNO7ifamN/view?usp=sharing"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prajwaltetoo.prajwaltetoo&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
